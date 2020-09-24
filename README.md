@@ -1,2 +1,2 @@
 # hello-world
-git guide
+I am Robert Flojo I own a photography company
